@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tteokbokki_back" size="1.000000 0.842896" />
+    <ImageTarget name="takoyaki_back" size="1.000000 0.858561" />
+    <ImageTarget name="taiyaki_back" size="1.000000 0.779518" />
+    <ImageTarget name="toast_back" size="1.000000 0.880450" />
+    <ImageTarget name="sushi_back" size="1.000000 0.809775" />
+    <ImageTarget name="steak_back" size="1.000000 0.890014" />
+    <ImageTarget name="icrecream_back" size="1.000000 0.776101" />
+    <ImageTarget name="churrous_back" size="1.000000 0.851334" />
+    <ImageTarget name="chicken_back" size="1.000000 0.936842" />
+    <ImageTarget name="burger_back" size="1.000000 0.741975" />
+  </Tracking>
+</QCARConfig>
